@@ -1,7 +1,11 @@
 body {
-    background-color: whitesmoke;
+    background-color: #f5f5dc;
 }
 
 p {
-    color: darkslategray;
+    color:#004466;
+}
+
+a {
+    color: black;
 }
